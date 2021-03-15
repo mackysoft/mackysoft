@@ -1,4 +1,4 @@
-![Screenshot 2020-03-06-17h33m (1024x500)](https://user-images.githubusercontent.com/13536348/111167995-fc7cb100-85e4-11eb-9f66-fe342d6d5902.png)
+![Screenshot 2020-03-06-17h33m (1024x500) (2)](https://user-images.githubusercontent.com/13536348/111169621-79f4f100-85e6-11eb-84bc-ab9b0da27fe5.png)
 
 #### Blog
 
