@@ -20,6 +20,6 @@ Libraries developed for game development are available to the public.
 
 A tutorial on CI using Unity and GitHub Actions.
 
-- [Automatic Test](https://github.com/mackysoft/Unity-GitHubActions-AutomaticTest-Example)
-- [Automatic Build](https://github.com/mackysoft/Unity-GitHubActions-Build-Example)
-- [Automatic Export unitypackage](https://github.com/mackysoft/Unity-GitHubActions-ExportPackage-Example)
+- [Automatic Test Tutorial](https://github.com/mackysoft/Unity-GitHubActions-AutomaticTest-Example)
+- [Automatic Build Tutorial](https://github.com/mackysoft/Unity-GitHubActions-Build-Example)
+- [Automatic Export unitypackage Tutorial](https://github.com/mackysoft/Unity-GitHubActions-ExportPackage-Example)
