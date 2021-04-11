@@ -4,7 +4,7 @@ I am an indie game developer.
 
  [Games](https://mackysoft.net/games/) / [Blog](https://mackysoft.net/blog/) / [Twitter](https://twitter.com/makihiro_dev) / [Qiita](https://qiita.com/makihiro_dev)
 
-#### Libraries for Unity
+### Libraries for Unity
 
 Libraries developed for game development are available to the public.
 
@@ -14,7 +14,7 @@ Libraries developed for game development are available to the public.
 - [SerializeReferenceExtensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
 
 
-#### Unity & GitHub Actions Tutorials
+### Unity & GitHub Actions Tutorials
 
 - [Automatic Test](https://github.com/mackysoft/Unity-GitHubActions-AutomaticTest-Example)
 - [Automatic Build](https://github.com/mackysoft/Unity-GitHubActions-Build-Example)
