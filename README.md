@@ -15,13 +15,9 @@ Libraries developed for game development are available to the public.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=UniData)](https://github.com/mackysoft/UniData)
 
 
-### Unity & GitHub Actions Tutorials
+### Unity & GitHub Actions CI Tutorials
 
 A tutorial on CI using Unity and GitHub Actions.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-AutomaticTest-Example)](https://github.com/mackysoft/Unity-GitHubActions-AutomaticTest-Example)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Build-Example)](https://github.com/mackysoft/Unity-GitHubActions-Build-Example)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-ExportPackage-Example)](https://github.com/mackysoft/Unity-GitHubActions-ExportPackage-Example)
 
 - [Automatic Test](https://github.com/mackysoft/Unity-GitHubActions-AutomaticTest-Example)
 - [Automatic Build](https://github.com/mackysoft/Unity-GitHubActions-Build-Example)
