@@ -18,8 +18,6 @@ Libraries developed for game development are available to the public.
 
 ### Unity & GitHub Actions CI Tutorials
 
-A tutorial on CI using Unity and GitHub Actions.
+A tutorials on CI using Unity and GitHub Actions.
 
-- [Automatic Test Tutorial](https://github.com/mackysoft/Unity-GitHubActions-AutomaticTest-Example)
-- [Automatic Build Tutorial](https://github.com/mackysoft/Unity-GitHubActions-Build-Example)
-- [Automatic Export unitypackage Tutorial](https://github.com/mackysoft/Unity-GitHubActions-ExportPackage-Example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Tutorials)](https://github.com/mackysoft/Unity-GitHubActions-Tutorials)
