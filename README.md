@@ -20,3 +20,4 @@ Libraries developed for game development are available to the public.
 
 A tutorials on CI using Unity and GitHub Actions.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Tutorials)](https://github.com/mackysoft/Unity-GitHubActions-Tutorials)
