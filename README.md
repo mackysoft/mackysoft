@@ -2,11 +2,15 @@
 
 I am an indie game developer.
 
+I love programming and often create complex game logic and useful libraries.
+
  [Games](https://mackysoft.net/games/) / [Blog](https://mackysoft.net/blog/) / [Twitter](https://twitter.com/makihiro_dev) / [Qiita](https://qiita.com/makihiro_dev)
 
 ### Libraries for Unity
 
-Libraries developed for game development are available to the public.
+Libraries developed for game development can be found here.
+
+These libraries were created with a smooth development workflow in mind.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Vision)](https://github.com/mackysoft/Vision)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Modiferty)](https://github.com/mackysoft/Modiferty)
