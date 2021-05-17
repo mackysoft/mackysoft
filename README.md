@@ -25,3 +25,4 @@ These libraries were created with a smooth development workflow in mind.
 A tutorials on CI using Unity and GitHub Actions.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Tutorials)](https://github.com/mackysoft/Unity-GitHubActions-Tutorials)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-ManualActivation)](https://github.com/mackysoft/Unity-ManualActivation)
