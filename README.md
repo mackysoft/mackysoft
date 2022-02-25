@@ -33,3 +33,9 @@ A tutorials on CI using Unity and GitHub Actions.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Tutorials&theme=dark)](https://github.com/mackysoft/Unity-GitHubActions-Tutorials#gh-dark-mode-only)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-ManualActivation)](https://github.com/mackysoft/Unity-ManualActivation#gh-light-mode-only)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-ManualActivation&theme=dark)](https://github.com/mackysoft/Unity-ManualActivation#gh-dark-mode-only)
+
+### Sponsors
+
+If you feel that my works are worthwhile, I would greatly appreciate it if you could sponsor me.
+
+GitHub Sponsors: https://github.com/sponsors/mackysoft
