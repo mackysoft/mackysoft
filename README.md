@@ -29,6 +29,13 @@ If you feel that my works are worthwhile, I would greatly appreciate it if you c
 
 GitHub Sponsors: https://github.com/sponsors/mackysoft
 
+### Library in development
+
+This library is in development. Your contributions are welcome !
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=XPool)](https://github.com/mackysoft/XPool#gh-light-mode-only)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=XPool&theme=dark)](https://github.com/mackysoft/XPool#gh-dark-mode-only)
+
 ### Unity & GitHub Actions CI Tutorials
 
 A tutorials on CI using Unity and GitHub Actions.
