@@ -22,7 +22,7 @@ GitHub Sponsors: https://github.com/sponsors/mackysoft
 
 ### Library in development
 
-This library is in development. Your contributions are welcome !
+This library is a scene management framework currently under development. Your contributions are welcome !
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena)](https://github.com/mackysoft/Navigathena#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena&theme=dark)](https://github.com/mackysoft/Navigathena#gh-dark-mode-only)
 
