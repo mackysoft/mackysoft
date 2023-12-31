@@ -25,10 +25,3 @@ GitHub Sponsors: https://github.com/sponsors/mackysoft
 This library is a scene management framework currently under active development. Your contributions are welcome !
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena)](https://github.com/mackysoft/Navigathena#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena&theme=dark)](https://github.com/mackysoft/Navigathena#gh-dark-mode-only)
-
-
-### Unity & GitHub Actions CI Tutorials
-
-A tutorials on CI using Unity and GitHub Actions.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Tutorials)](https://github.com/mackysoft/Unity-GitHubActions-Tutorials#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-GitHubActions-Tutorials&theme=dark)](https://github.com/mackysoft/Unity-GitHubActions-Tutorials#gh-dark-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-ManualActivation)](https://github.com/mackysoft/Unity-ManualActivation#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-ManualActivation&theme=dark)](https://github.com/mackysoft/Unity-ManualActivation#gh-dark-mode-only)
