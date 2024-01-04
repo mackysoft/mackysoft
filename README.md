@@ -12,7 +12,7 @@ Libraries developed for game development can be found here.
 
 These libraries were created with a smooth development workflow in mind.
 
-#### Active development
+#### Latest release (In active development)
 
 This library is a scene management framework currently under active development. Your contributions are welcome !
 
