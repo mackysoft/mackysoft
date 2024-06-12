@@ -4,7 +4,7 @@ I am an indie game developer.
 
 I love programming and often create complex game logic and useful libraries.
 
-[Twitter (X)](https://twitter.com/makihiro_dev) / [Zenn](https://zenn.dev/makihiro_dev)
+[Twitter (so-called X)](https://twitter.com/makihiro_dev) / [Zenn](https://zenn.dev/makihiro_dev)
 
 ### Libraries for Unity
 
