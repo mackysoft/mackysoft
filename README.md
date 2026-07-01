@@ -16,6 +16,7 @@ These libraries were created with a smooth development workflow in mind.
 
 This libraries is currently under active development. Your contributions are welcome!
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=ucli)](https://github.com/mackysoft/ucli#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=ucli&theme=dark)](https://github.com/mackysoft/ucli#gh-dark-mode-only)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena)](https://github.com/mackysoft/Navigathena#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena&theme=dark)](https://github.com/mackysoft/Navigathena#gh-dark-mode-only)
 
 #### Awesome libraries
