@@ -1,4 +1,4 @@
-![Header_1](https://github.com/mackysoft/mackysoft/assets/13536348/07d9db5e-8dc6-43b3-9bf6-fa4efbcbee1b)
+<img width="1983" height="793" alt="cubechan_header" src="https://github.com/user-attachments/assets/92fcb6bf-eb91-4dc5-9b3c-b138aad2c27b" />
 
 I am an indie game developer.
 
