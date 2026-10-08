@@ -2,7 +2,7 @@
 
 I am an indie game developer.
 
-I love programming and often create complex game logic and useful libraries.
+I love creating all kinds of things for my games.
 
 [Site](https://mackysoft.net/) / [Twitter](https://twitter.com/makihiro_dev) / [Zenn](https://zenn.dev/makihiro_dev)
 
@@ -12,17 +12,17 @@ Libraries developed for game development can be found here.
 
 These libraries were created with a smooth development workflow in mind.
 
-#### Latest release (In active development)
+#### Latest releases (In active development)
 
-uCLI is currently under active development. Your contributions are welcome!
+These libraries are actively developed for the game I'm currently working on. Bug reports are welcome.
 
-uCLI provides a machine-readable, reproducible, and reproducible CLI workflow for Unity editor changes, for use in scripts, CI, and AI agents.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena)](https://github.com/mackysoft/Navigathena#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena&theme=dark)](https://github.com/mackysoft/Navigathena#gh-dark-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Yggdrasil)](https://github.com/mackysoft/Yggdrasil#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Yggdrasil&theme=dark)](https://github.com/mackysoft/Yggdrasil#gh-dark-mode-only)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=ucli)](https://github.com/mackysoft/ucli#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=ucli&theme=dark)](https://github.com/mackysoft/ucli#gh-dark-mode-only)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Moira)](https://github.com/mackysoft/Moira#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Moira&theme=dark)](https://github.com/mackysoft/Moira#gh-dark-mode-only)
 
 #### Awesome libraries
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena)](https://github.com/mackysoft/Navigathena#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Navigathena&theme=dark)](https://github.com/mackysoft/Navigathena#gh-dark-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Vision)](https://github.com/mackysoft/Vision#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Vision&theme=dark)](https://github.com/mackysoft/Vision#gh-dark-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=XPool)](https://github.com/mackysoft/XPool#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=XPool&theme=dark)](https://github.com/mackysoft/XPool#gh-dark-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-SerializeReferenceExtensions)](https://github.com/mackysoft/Unity-SerializeReferenceExtensions#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-SerializeReferenceExtensions&theme=dark)](https://github.com/mackysoft/Unity-SerializeReferenceExtensions#gh-dark-mode-only)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Vision)](https://github.com/mackysoft/Vision#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Vision&theme=dark)](https://github.com/mackysoft/Vision#gh-dark-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-SerializeReferenceExtensions)](https://github.com/mackysoft/Unity-SerializeReferenceExtensions#gh-light-mode-only)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mackysoft&repo=Unity-SerializeReferenceExtensions&theme=dark)](https://github.com/mackysoft/Unity-SerializeReferenceExtensions#gh-dark-mode-only)
 
 Thank you for sponsor. Private sponsor and one-time donate are also welcome.
 
